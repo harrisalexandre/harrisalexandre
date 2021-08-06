@@ -17,11 +17,7 @@
   ##
  
 <div> 
-  <a href="https://www.instagram.com/_harrisalexandre/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"_blank"></a>
-  <a href = "mailto:harrisalexandre308@gmail.com><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/harris-alexandre" target="_blank"><img src="	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href="https://www.behance.net/harrisalexandre" target="_blank"><img src="https://aleen42.github.io/badges/src/behance.svg"_blank"></a> 
-   
+ 
   ![Snake animation](https://github.com/harrisalexandre/harrisalexandre/blob/output/github-contribution-grid-snake.svg)
  
 </div>
