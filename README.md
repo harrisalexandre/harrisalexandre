@@ -9,6 +9,9 @@
 
 ---
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=harrisalexandre&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ### 💡 About me
 
 Desenvolvedor com sólida experiência em integrações de sistemas, APIs e soluções escaláveis, atuando há mais de 4 anos com Mulesoft e desenvolvimento back-end. Possuo forte domínio em arquitetura de APIs, segurança, padrões de integração e práticas ágeis. Com complementariedade técnica em Java, Spring Boot, segurança OWASP, AWS Cloud, dados e front-end moderno (React, TypeScript). Destaque para atuação em projetos de grande porte no setor financeiro e logístico, com perfil analítico, comunicação clara e foco em eficiência e resultados.
