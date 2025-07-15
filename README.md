@@ -1,17 +1,5 @@
 ## Hello World! I'm Harris Alexandre 👋
 
-<div align="center">
-  <a href="https://github.com/harrisalexandre">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harrisalexandre&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harrisalexandre&layout=compact&langs_count=7&theme=react"/>
-  </a>
-</div>
-
----
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=harrisalexandre&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 ### 💡 About me
 
 Desenvolvedor com sólida experiência em integrações de sistemas, APIs e soluções escaláveis, atuando há mais de 4 anos com Mulesoft e desenvolvimento back-end. Possuo forte domínio em arquitetura de APIs, segurança, padrões de integração e práticas ágeis. Com complementariedade técnica em Java, Spring Boot, segurança OWASP, AWS Cloud, dados e front-end moderno (React, TypeScript). Destaque para atuação em projetos de grande porte no setor financeiro e logístico, com perfil analítico, comunicação clara e foco em eficiência e resultados.
@@ -24,12 +12,6 @@ Desenvolvedor com sólida experiência em integrações de sistemas, APIs e solu
 - Design System & UX: Tailwind, Radix UI, Framer Motion
 - APIs: RESTful, Microservices, Mulesoft
 - Infraestrutura modular e escalável
-
-💬 **Soft skills**:  
-- Liderança técnica e mentoring
-- Resiliência e disciplina (ex-militar + karatê)
-- Comunicação clara (experiência em aulas e liderança de times)
-- Inovação contínua e mindset de crescimento
 
 ---
 
