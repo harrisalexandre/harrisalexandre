@@ -6,7 +6,7 @@ Desenvolvedor com sólida experiência em integrações de sistemas, APIs e solu
 
 
 🧠 **Hard skills**:  
-- Fullstack: Java, Node.js, React, TypeScript
+- Fullstack: Mulesoft, Java, Node.js, React, TypeScript
 - Cloud & DevOps: MongoDB Atlas, Vercel, Heroku, CI/CD pipelines
 - Testes: Jest, Testing Library, Cypress
 - Design System & UX: Tailwind, Radix UI, Framer Motion
