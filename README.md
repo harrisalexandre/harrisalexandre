@@ -23,7 +23,9 @@ Um ecossistema fullstack moderno, criado para impulsionar negócios digitais com
 ✔️ Node.js + Express + MongoDB Atlas  
 ✔️ Arquitetura modular, segura e pronta para escalar  
 ✔️ Design system unificado e UX premium  
-✔️ Deploy-ready (Vercel, Heroku, Netlify)  
+✔️ Deploy-ready
+
+🔗 [Veja o projeto rodando no Render](https://fgk-project.onrender.com)
 
 ---
 
