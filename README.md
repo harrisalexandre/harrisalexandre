@@ -15,20 +15,6 @@ Desenvolvedor com sólida experiência em integrações de sistemas, APIs e solu
 
 ---
 
-### ⚡ Highlight Project
-
-🚀 **FGK Project Prototype**  
-Um ecossistema fullstack moderno, criado para impulsionar negócios digitais com máxima performance, segurança e experiência do usuário.  
-✔️ React + Vite + Tailwind + Radix UI  
-✔️ Node.js + Express + MongoDB Atlas  
-✔️ Arquitetura modular, segura e pronta para escalar  
-✔️ Design system unificado e UX premium  
-✔️ Deploy-ready
-
-🔗 [Veja o projeto rodando no Render](https://fgk-project.onrender.com)
-
----
-
 ### 💻 Technologies I work with
 
 <div style="display: inline_block"><br>
